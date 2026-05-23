@@ -1,16 +1,25 @@
 # SOZOWORKS
 
-Intent-driven systems for design, development, and AI collaboration.
+**Intent-driven systems for design, development, and AI collaboration.**  
+**意図を起点に、デザイン・開発・AI活用を同期させるための体系。**
 
 ---
 
-## What this is
+## Who I am
 
-This repository group is a structured system for keeping products, design, AI usage, and implementation aligned to human intent and Core.
+I am an **Intent Architect**.
 
-It is not a collection of isolated tools.
+I design the intent, meaning, structure, and decision context that connect products, teams, documents, and AI systems.
 
-The system treats:
+私は、見た目を整えるだけのデザイナーではなく、目的・意図・情報・体験・関係性を設計し、プロダクトやチームが同じ方向へ進める状態をつくることを重視しています。
+
+---
+
+## What this repository group is
+
+This repository group is not a collection of isolated tools.
+
+It is a structured system for keeping the following aligned:
 
 - Human intent
 - Core definitions
@@ -20,7 +29,28 @@ The system treats:
 - Design systems
 - Implementation constraints
 
-as one connected structure.
+このリポジトリ群は、Human の意図を Core として扱い、Document を正本にし、AI を Sync 支援として使いながら、プロダクト・UI・制作物・実装を一貫させるための体系です。
+
+---
+
+## System Overview
+
+```text
+Human Intent
+    ↓
+Core
+    ↓
+Sync
+    ↓
+Converge
+    ↓
+Product / Design System / Deliverables / Implementation
+```
+
+The central principle is simple:
+
+**Do not let intent disappear during execution.**  
+**実行の過程で、意図を失わせない。**
 
 ---
 
@@ -45,12 +75,12 @@ The goal is to keep intent, structure, implementation, and outcomes aligned.
 
 | Repository | Role |
 |---|---|
-| `DesignThinkingSysten` | Design philosophy and decision-making foundation |
-| `SyncDev` | Core → Sync → Converge development framework |
-| `IntentGPTs` | GPT system for translating human intent into Core-ready structure |
-| `DesignHarness` | AI-controlled design/review harnesses for deliverables |
-| `original_designsystem` | Base Design System |
-| `stance-protocol` | Product Design System and product-side source of truth |
+| [DesignThinkingSysten](https://github.com/sozoworks/DesignThinkingSysten) | Design philosophy and decision-making foundation |
+| [SyncDev](https://github.com/sozoworks/SyncDev) | Core → Sync → Converge development framework |
+| [IntentGPTs](https://github.com/sozoworks/IntentGPTs) | GPT system for translating human intent into Core-ready structure |
+| [DesignHarness](https://github.com/sozoworks/DesignHarness) | AI-controlled design/review harnesses for deliverables |
+| [original_designsystem](https://github.com/sozoworks/original_designsystem) | Base Design System |
+| [stance-protocol](https://github.com/sozoworks/stance-protocol) | Product Design System and product-side source of truth |
 
 ---
 
@@ -58,12 +88,12 @@ The goal is to keep intent, structure, implementation, and outcomes aligned.
 
 Recommended order:
 
-1. DesignThinkingSysten
-2. SyncDev
-3. IntentGPTs
-4. DesignHarness
-5. original_designsystem
-6. stance-protocol
+1. [DesignThinkingSysten](https://github.com/sozoworks/DesignThinkingSysten)
+2. [SyncDev](https://github.com/sozoworks/SyncDev)
+3. [IntentGPTs](https://github.com/sozoworks/IntentGPTs)
+4. [DesignHarness](https://github.com/sozoworks/DesignHarness)
+5. [original_designsystem](https://github.com/sozoworks/original_designsystem)
+6. [stance-protocol](https://github.com/sozoworks/stance-protocol)
 
 ---
 
@@ -72,6 +102,8 @@ Recommended order:
 Design is not decoration.
 
 Design is the act of structuring intent, information, relationships, constraints, and experiences so that a purpose can be achieved consistently.
+
+デザインとは、見た目を整えることではなく、目的を果たすために、意図・情報・関係性・制約・体験を設計する行為です。
 
 ---
 
@@ -92,15 +124,29 @@ AI is treated as:
 
 Final responsibility always belongs to humans.
 
+AIは判断者ではなく、思考整理・構造化・整合確認・再現性向上のための協働相手です。
+
+---
+
+## Current Focus
+
+- Intent Architecture
+- Core-driven product development
+- Human / AI / Document collaboration
+- Design systems for AI-assisted development
+- AI operation rules and guardrails
+- Document-centered product design
+- Constraint-based convergence
+
 ---
 
 ## Keywords
 
-- Intent Architecture
-- Core-driven development
-- Human / AI / Document collaboration
-- Synchronization-first systems
-- Document-centered product development
-- Design systems
-- AI operational governance
-- Constraint-based convergence
+`Intent Architecture`  
+`Core-driven development`  
+`Human / AI / Document`  
+`SyncDev`  
+`Design System`  
+`AI Governance`  
+`Document as Source of Truth`  
+`Constraint-based convergence`

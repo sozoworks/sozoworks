@@ -9,52 +9,15 @@
 
 SOZOWORKs is an organization focused on designing value from meaning.
 
-SOZOWORKs designs the intent, meaning, structure, and decision context that connect products, teams, documents, and AI systems.
+SOZOWORKs designs intent, meaning, structure, and decision context so that people, documents, AI systems, and outputs can stay aligned.
 
-SOZOWORKsは、見た目を整えるだけではなく、目的・意図・情報・体験・関係性を設計し、プロダクトやチームが同じ方向へ進める状態をつくる組織です。
-
----
-
-## What this repository group is
-
-This repository group is not a collection of isolated tools.
-
-It is a structured system for keeping the following aligned:
-
-- Human intent
-- Core definitions
-- Documents as Source of Truth
-- AI-assisted synchronization
-- Product convergence
-- Design systems
-- Implementation constraints
-
-このリポジトリ群は、Human の意図を Core として扱い、Document を正本にし、AI を Sync 支援として使いながら、プロダクト・UI・制作物・実装を一貫させるための体系です。
-
----
-
-## System Overview
-
-```text
-Human Intent
-    ↓
-Core
-    ↓
-Sync
-    ↓
-Converge
-    ↓
-Product / Design System / Deliverables / Implementation
-```
-
-The central principle is simple:
-
-**Do not let intent disappear during execution.**  
-**実行の過程で、意図を失わせない。**
+SOZOWORKsは、見た目を整えるだけではなく、目的・意図・情報・体験・関係性を設計し、価値が正しく届く状態をつくる組織です。
 
 ---
 
 ## Core Philosophy
+
+SOZOWORKs treats creation as a process of keeping intent alive through execution.
 
 In this system:
 
@@ -68,32 +31,6 @@ In this system:
 The goal is not to let AI decide.
 
 The goal is to keep intent, structure, implementation, and outcomes aligned.
-
----
-
-## Repository Map
-
-| Repository | Role |
-|---|---|
-| [DesignThinkingSysten](https://github.com/sozoworks/DesignThinkingSysten) | Design philosophy and decision-making foundation |
-| [SyncDev](https://github.com/sozoworks/SyncDev) | Core → Sync → Converge development framework |
-| [IntentGPTs](https://github.com/sozoworks/IntentGPTs) | GPT system for translating human intent into Core-ready structure |
-| [DesignHarness](https://github.com/sozoworks/DesignHarness) | AI-controlled design/review harnesses for deliverables |
-| [original_designsystem](https://github.com/sozoworks/original_designsystem) | Base Design System |
-| [stance-protocol](https://github.com/sozoworks/stance-protocol) | Product Design System and product-side source of truth |
-
----
-
-## Reading Order
-
-Recommended order:
-
-1. [DesignThinkingSysten](https://github.com/sozoworks/DesignThinkingSysten)
-2. [SyncDev](https://github.com/sozoworks/SyncDev)
-3. [IntentGPTs](https://github.com/sozoworks/IntentGPTs)
-4. [DesignHarness](https://github.com/sozoworks/DesignHarness)
-5. [original_designsystem](https://github.com/sozoworks/original_designsystem)
-6. [stance-protocol](https://github.com/sozoworks/stance-protocol)
 
 ---
 
@@ -128,25 +65,10 @@ AIは判断者ではなく、思考整理・構造化・整合確認・再現性
 
 ---
 
-## Current Focus
-
-- Intent Architecture
-- Core-driven product development
-- Human / AI / Document collaboration
-- Design systems for AI-assisted development
-- AI operation rules and guardrails
-- Document-centered product design
-- Constraint-based convergence
-
----
-
 ## Keywords
 
 `Intent Architecture`  
-`Core-driven development`  
 `Human / AI / Document`  
-`SyncDev`  
 `Design System`  
-`AI Governance`  
 `Document as Source of Truth`  
 `Constraint-based convergence`

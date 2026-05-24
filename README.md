@@ -1,17 +1,17 @@
-# SOZOWORKS
+# SOZOWORKs
 
 **Intent-driven systems for design, development, and AI collaboration.**  
 **意図を起点に、デザイン・開発・AI活用を同期させるための体系。**
 
 ---
 
-## Who I am
+## About SOZOWORKs
 
-I am an **Intent Architect**.
+SOZOWORKs is an organization focused on designing value from meaning.
 
-I design the intent, meaning, structure, and decision context that connect products, teams, documents, and AI systems.
+SOZOWORKs designs the intent, meaning, structure, and decision context that connect products, teams, documents, and AI systems.
 
-私は、見た目を整えるだけのデザイナーではなく、目的・意図・情報・体験・関係性を設計し、プロダクトやチームが同じ方向へ進める状態をつくることを重視しています。
+SOZOWORKsは、見た目を整えるだけではなく、目的・意図・情報・体験・関係性を設計し、プロダクトやチームが同じ方向へ進める状態をつくる組織です。
 
 ---
 
